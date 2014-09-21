@@ -53,3 +53,4 @@ cacheSolve <- function(x, ...) {
       ## Returns the inverted matrix.
       i
 }
+## Coding inspired by the assignment example for calculating the mean of a vector.
